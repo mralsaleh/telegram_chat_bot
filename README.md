@@ -21,7 +21,7 @@ Language: Python 3.10+
 
 Library: Telethon (Telegram MTProto)
 
-AI Orchestration: LiteLLM (Gemini 1.5 Pro)
+AI Orchestration: LiteLLM (Gemini 2.5 Pro)
 
 Async Processing: asyncio for non-blocking API polling and concurrency management.
 
